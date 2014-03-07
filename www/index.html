@@ -16,7 +16,7 @@
     margin: 1em;
   }
   body {
-    background-color: white; 
+    background-color: white;
   }
   </style>
 
@@ -24,8 +24,19 @@
 <body>
   <h2>Steroids Repro Template</h2>
 
+  <button onClick="performAnimation()">Animate!</button>
+
   <script>
-    //Add your JavaScripts here
+    steroids.view.setBackgroundColor("#FF0000");
+
+    var flipHorizontal = new steroids.Animation({
+      transition: "flipHorizontalFromLeft",
+      duration: 2
+    });
+
+    function performAnimation() {
+      flipHorizontal.perform();
+    }
   </script>
 </body>
 </html>
