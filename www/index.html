@@ -12,20 +12,43 @@
   <!--body background-color is set for Android not to show the loading screen forever-->
   <style>
   button {
-    font-size: 30px;
+    font-size: 20px;
     margin: 1em;
   }
   body {
-    background-color: white; 
+    background-color: white;
   }
   </style>
 
 </head>
 <body>
   <h2>Steroids Repro Template</h2>
+  <button onClick="setLocalStorage()">set localStorage</button>
+  <br><br>
+  <button onClick="setSessionStorage()">set sessionStorage</button>
+  <br><br>
+  <button onClick="getLocalStorage()">get localStorage</button>
+  <br><br>
+  <button onClick="getSessionStorage()">get sessionStorage</button>
 
   <script>
-    //Add your JavaScripts here
+    function setLocalStorage() {
+      localStorage.setItem("foo", "bar");
+      alert("Set item foo:bar to localStorage")
+    }
+
+    function setSessionStorage() {
+      sessionStorage.setItem("foo", "bar");
+      alert("Set item foo:bar to sessionStorage")
+    }
+
+    function getLocalStorage() {
+      alert("Got item: " + localStorage.getItem("foo"));
+    }
+
+    function getSessionStorage() {
+      alert("Got item: " + sessionStorage.getItem("foo"));
+    }
   </script>
 </body>
 </html>

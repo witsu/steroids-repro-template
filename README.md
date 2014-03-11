@@ -1,6 +1,8 @@
 #Steroids Repro Template
 
-Steroids Repro Template is a stripped-down Steroids project for reproducing Steroids issues. Clone it to your computer, create your repro case and put it on Github. Let us know about it by creating a new issue on [the Scanner issue tracker](https://github.com/AppGyver/scanner/issues) and linking your repro case to the issue or linking it to an existing issue.
+Repro for issue https://github.com/AppGyver/scanner/issues/152 about localStorage not working.
 
-For more information, see the [Creating excellent reproductions for issues](http://guides.appgyver.com/steroids/guides/debugging/creating-excellent-reproductions/) guide.
-
+1) Set localStorage and sessionStorage in tab Index 1
+2) Get localStorage and sessionStorage work as expected in tab Index 1
+3) Switch to tab Index 2
+3) Get localStorage works, get sessionStorage doesn't
