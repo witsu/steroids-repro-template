@@ -24,8 +24,36 @@
 <body>
   <h2>Steroids Repro Template</h2>
 
+  <a href="#" ontouchend="drawerMenu()">Initialize drawer</a>
+  <a href="#" ontouchend="openDrawer()">Open drawer</a>
+
   <script>
-    //Add your JavaScripts here
+
+    var leftDrawer = new steroids.views.WebView({
+      location: "hello.html"
+    });
+
+    function drawerMenu() {
+
+      leftDrawer.preload({id: "drawer"}, {
+        onSuccess: initGesture,
+        onFailure: function(error) {
+          alert("Drawer Preload: " + error.errorDescription + ", ID: " + leftDrawer.id);
+        }
+      });
+      
+      function initGesture() {
+        alert("Hello from initGesture!");
+        steroids.drawers.enableGesture(leftDrawer);
+      }
+    }
+
+    function openDrawer() { 
+      alert("Opens drawer");
+      steroids.drawers.show({view: leftDrawer});
+
+    }
+
   </script>
 </body>
 </html>
