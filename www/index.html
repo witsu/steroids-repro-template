@@ -12,7 +12,7 @@
   <!--body background-color is set for Android not to show the loading screen forever-->
   <style>
   button {
-    font-size: 30px;
+    font-size: 14px;
     margin: 1em;
   }
   body {
@@ -22,10 +22,50 @@
 
 </head>
 <body>
-  <h2>Steroids Repro Template</h2>
+  <h2>RotateTo Repro</h2>
+
+  <button ontouchend="allowLandscape()">Set allowed rotations to landscape</button>
+
+  <button ontouchend="allowAll()">Set allowed rotations to all</button>
+
+  <button ontouchend="allowPortrait()">Set allowed rotations to portrait mode</button>
+
+  <button ontouchend="rotate90()">Rotate to 90</button>
+
+  <button ontouchend="rotateNeg90()">Rotate to -90</button>
+
+  <button ontouchend="rotate0()">Rotate to 0</button>
+
+  <button ontouchend="rotate180()">Rotate to 180</button>
 
   <script>
-    //Add your JavaScripts here
+    function allowLandscape() {
+      steroids.view.setAllowedRotations([90, -90]);
+    }
+
+    function allowAll() {
+      steroids.view.setAllowedRotations([0, 90, 180, -90]);
+    }
+
+    function allowPortrait() {
+      steroids.view.setAllowedRotations([0,180]);
+    }
+
+    function rotate90() {
+      steroids.view.rotateTo(90);
+    }
+
+    function rotateNeg90() {
+      steroids.view.rotateTo(-90);
+    }
+
+    function rotate0() {
+      steroids.view.rotateTo(0);
+    }
+
+    function rotate180() {
+      steroids.view.rotateTo(180);
+    }
   </script>
 </body>
 </html>
