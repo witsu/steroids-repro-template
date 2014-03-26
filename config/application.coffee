@@ -7,26 +7,25 @@ steroids.config.name = "muna-html"
 steroids.config.location = "http://localhost/index.html"
 
 # -- Tab Bar --
-# steroids.config.tabBar.enabled = true
-# steroids.config.tabBar.tabs = [
-#   {
-#     title: "Index"
-#     icon: "icons/pill@2x.png"
-#     location: "http://localhost/index.html"
-#   },
-#   {
-#     title: "Internet"
-#     icon: "icons/telescope@2x.png"
-#     location: "http://www.google.com"
-#   }
-# ]
+steroids.config.tabBar.enabled = true
+steroids.config.tabBar.tabs = [
+  {
+    icon: "icon_home.png",
+    location: "index.html"
+  },
+  {
+    title: "Info",
+    icon: "icon_info.png",
+    location: "index.html"
+  }
+]
 
-# steroids.config.tabBar.tintColor = "#000000"
-# steroids.config.tabBar.tabTitleColor = "#00aeef"
-# steroids.config.tabBar.selectedTabTintColor = "#ffffff"
-# steroids.config.tabBar.selectedTabBackgroundImage = "icons/pill@2x.png"
+steroids.config.tabBar.tintColor = "#000000"
+steroids.config.tabBar.tabTitleColor = "#00aeef"
+steroids.config.tabBar.selectedTabTintColor = "#ffffff"
+steroids.config.tabBar.selectedTabBackgroundImage = "icons/pill@2x.png"
 
-# steroids.config.tabBar.backgroundImage = ""
+steroids.config.tabBar.backgroundImage = ""
 
 # -- Navigation Bar --
 steroids.config.navigationBar.tintColor = "#00aeef"
