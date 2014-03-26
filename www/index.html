@@ -22,10 +22,64 @@
 
 </head>
 <body>
-  <h2>Steroids Repro Template</h2>
+  <h2>Tabs and titles repro</h2>
+
+  <p>Apparently if only some tabs have titles it doesn't work in an Ad Hoc build.</p>
+
+  <button ontouchend="showTabs()">Show tab bar</button>
+  <button ontouchend="addAllTitles()">All tabs have titles</button>
+  <button ontouchend="addSomeTitles()">Only the other tab has a title</button>
+  <button ontouchend="removeTitles()">No tabs have titles</button>
 
   <script>
-    //Add your JavaScripts here
+    function showTabs() {
+      steroids.tabBar.show();
+    }
+
+    function addAllTitles() {
+      steroids.tabBar.update({
+          tabs: [
+            {
+              title: "Home",
+              icon: "icon_home.png"
+            },
+            {
+              title: "Info",
+              icon: "icon_info.png"
+            }
+          ]
+        });
+    }
+
+    function addSomeTitles() {
+      steroids.tabBar.update({
+          tabs: [
+            {
+              title: "",
+              icon: "icon_home.png"
+            },
+            {
+              title: "Info",
+              icon: "icon_info.png"
+            }
+          ]
+        });
+    }
+
+    function removeTitles() {
+      steroids.tabBar.update({
+          tabs: [
+            {
+              title: "",
+              icon: "icon_home.png"
+            },
+            {
+              title: "",
+              icon: "icon_info.png"
+            }
+          ]
+        });
+    }
   </script>
 </body>
 </html>
