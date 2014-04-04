@@ -1,0 +1,2564 @@
+
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/index.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/index.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /index.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /index.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /index.html
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/STATUSBAR-NetworkController( 2638): onSignalStrengthsChanged signalStrength=SignalStrength: 22 -1 -1 -1 -1 -1 -1 99 -140 -20 -200 -1 2147483647 gsm|lte 0x4 level=4
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /components/steroids-js/steroids.js
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+I/Web Console(11582): exception firing resume event from native:1
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,http://localhost/index.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: http://localhost/index.html
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,http://localhost/index.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: http://localhost/index.html
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,http://localhost/index.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: http://localhost/index.html
+
+I/Web Console(11582): exception firing resume event from native:1
+
+E/OpenGLRenderer(29137): SFEffectCache:clear(), mSize = 0
+
+D/Launcher(29137): onTrimMemory. Level: 80
+
+D/Launcher(29137): releaseShadows called
+
+W/ManagedEGLContext(29137): doTerminate failed: EGL count is 2 but managed count is 1
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/cordova_plugins.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/cordova_plugins.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /cordova_plugins.js
+
+I/SurfaceFlinger( 1941): id=2735 Removed TtartPrevie (2/5)
+
+I/SurfaceFlinger( 1941): id=2735 Removed TtartPrevie (-2/5)
+
+W/ActivityManager( 2357): mDVFSHelper.release()
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,http://localhost/index.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: http://localhost/index.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(spinner,stop)
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(spinner,stop)
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+W/SocketClient( 1933): write error (Broken pipe)
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://undefined/__appgyver/logger
+
+D/com.appgyver.preview.ESWebViewClient(11582): onLoadResource: http://undefined/__appgyver/logger
+
+E/OpenGLRenderer(29137): SFEffectCache:clear(), mSize = 0
+
+D/Launcher(29137): onTrimMemory. Level: 80
+
+D/Launcher(29137): releaseShadows called
+
+W/ManagedEGLContext(29137): doTerminate failed: EGL count is 2 but managed count is 1
+
+D/dalvikvm( 1942): GC_EXPLICIT freed 40K, 12% free 9453K/10648K, paused 11ms+5ms, total 74ms
+
+D/dalvikvm( 1942): GC_EXPLICIT freed <1K, 12% free 9453K/10648K, paused 2ms+3ms, total 27ms
+
+D/dalvikvm( 1942): GC_EXPLICIT freed <1K, 12% free 9453K/10648K, paused 2ms+3ms, total 22ms
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BackgroundAGContext(11582): Evaling to background: 
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.App.Ob
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x003b
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300, Prev AP = 300, Duration = 10003
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.App.Wb
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0069
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.App.c
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x004a
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.App.lb
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0072
+
+D/dalvikvm(11819): GC_CONCURRENT freed 601K, 16% free 9877K/11632K, paused 5ms+2ms, total 31ms
+
+D/dalvikvm(11819): WAIT_FOR_CONCURRENT_GC blocked 17ms
+
+D/dalvikvm(11819): GC_CONCURRENT freed 289K, 14% free 10052K/11632K, paused 1ms+5ms, total 24ms
+
+D/dalvikvm(11819): GC_CONCURRENT freed 369K, 14% free 10155K/11688K, paused 4ms+4ms, total 30ms
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.messaging.MessageService.a
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0096
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.messaging.MessageService.o
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0066
+
+V/AlarmManager( 2357): waitForAlarm result :8
+
+E/OpenGLRenderer(29137): SFEffectCache:clear(), mSize = 0
+
+D/Launcher(29137): onTrimMemory. Level: 80
+
+D/Launcher(29137): releaseShadows called
+
+W/ManagedEGLContext(29137): doTerminate failed: EGL count is 2 but managed count is 1
+
+D/dalvikvm(11819): Trying to load lib /data/app-lib/com.whatsapp-2/libqcom.so 0x429afd10
+
+D/dalvikvm(11819): Added shared lib /data/app-lib/com.whatsapp-2/libqcom.so 0x429afd10
+
+D/dalvikvm(11819): No JNI_OnLoad found in /data/app-lib/com.whatsapp-2/libqcom.so 0x429afd10, skipping init
+
+D/dalvikvm(11819): Trying to load lib /data/app-lib/com.whatsapp-2/libwhatsapp.so 0x429afd10
+
+D/dalvikvm(11819): Added shared lib /data/app-lib/com.whatsapp-2/libwhatsapp.so 0x429afd10
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.messaging.qb.h
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0043
+
+D/dalvikvm(11819): GC_CONCURRENT freed 539K, 14% free 10569K/12248K, paused 7ms+9ms, total 74ms
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): Hiding splash, showing view!
+
+D/Finsky  (11839): [1] FinskyApp.onCreate: Initializing network with DFE https://android.clients.google.com/fdfe/
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+D/WebView (11582): onSizeChanged - w:720 h:1230
+
+D/WebView (11582): onSizeChanged - w:720 h:1230
+
+D/Finsky  (11839): [1] DailyHygiene.goMakeHygieneIfDirty: No need to run daily hygiene.
+
+W/Settings(11839): Setting download_manager_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+
+W/Settings(11839): Setting download_manager_recommended_max_bytes_over_mobile has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+D/dalvikvm(11839): GC_CONCURRENT freed 602K, 16% free 9825K/11572K, paused 5ms+22ms, total 80ms
+
+D/dalvikvm(11819): GC_CONCURRENT freed 409K, 13% free 10671K/12248K, paused 4ms+15ms, total 146ms
+
+D/dalvikvm(11819): WAIT_FOR_CONCURRENT_GC blocked 43ms
+
+D/dalvikvm(11839): GC_CONCURRENT freed 268K, 14% free 9995K/11572K, paused 4ms+3ms, total 32ms
+
+D/dalvikvm(11839): GC_CONCURRENT freed 196K, 12% free 10228K/11588K, paused 4ms+3ms, total 29ms
+
+D/Finsky  (11839): [1] GmsCoreHelper.cleanupNlp: result=false type=4
+
+D/Finsky  (11839): [1] 2.run: Loaded library for account: [UDrQY20dog17DevzLbDSCBkv-LM]
+
+D/Finsky  (11839): [1] 2.run: Finished loading 1 libraries.
+
+D/Finsky  (11839): [1] RestoreTracker.stopServiceIfDone: Restore complete with 0 success and 0 failed.
+
+D/Finsky  (11839): [53108] InAppBillingUtils.pickAccount: com.whatsapp: Account determined from installer data - [UDrQY20dog17DevzLbDSCBkv-LM]
+
+I/dalvikvm(11819): Could not find method android.app.AlarmManager.setExact, referenced from method com.whatsapp.c2dm.C2DMRegistrar.a
+
+W/dalvikvm(11819): VFY: unable to resolve virtual method 156: Landroid/app/AlarmManager;.setExact (IJLandroid/app/PendingIntent;)V
+
+D/dalvikvm(11819): VFY: replacing opcode 0x6e at 0x0079
+
+D/Finsky  (11839): [53131] InAppBillingUtils.pickAccount: com.whatsapp: Account determined from installer data - [UDrQY20dog17DevzLbDSCBkv-LM]
+
+D/Finsky  (11839): [53131] InAppBillingUtils.pickAccount: com.whatsapp: Account determined from installer data - [UDrQY20dog17DevzLbDSCBkv-LM]
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+D/dalvikvm(11839): GC_CONCURRENT freed 838K, 17% free 10366K/12364K, paused 5ms+3ms, total 30ms
+
+E/OpenGLRenderer(29137): SFEffectCache:clear(), mSize = 0
+
+D/Launcher(29137): onTrimMemory. Level: 80
+
+D/Launcher(29137): releaseShadows called
+
+W/ManagedEGLContext(29137): doTerminate failed: EGL count is 2 but managed count is 1
+
+V/AlarmManager( 2357): waitForAlarm result :8
+
+D/KeyguardClockWidgetService( 9838): onReceive action=android.intent.action.TIME_TICK
+
+V/AlarmManager( 2357): ClockReceiver onReceive() ACTION_TIME_TICK
+
+D/STATUSBAR-IconMerger( 2638): checkOverflow(336), More:false, Req:false Child:3
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+E/OpenGLRenderer(29137): SFEffectCache:clear(), mSize = 0
+
+D/Launcher(29137): onTrimMemory. Level: 80
+
+D/Launcher(29137): releaseShadows called
+
+W/ManagedEGLContext(29137): doTerminate failed: EGL count is 2 but managed count is 1
+
+D/Finsky  (11839): [53109] InAppBillingUtils.pickAccount: com.whatsapp: Account determined from installer data - [UDrQY20dog17DevzLbDSCBkv-LM]
+
+D/Finsky  (11839): [53109] InAppBillingUtils.pickAccount: com.whatsapp: Account determined from installer data - [UDrQY20dog17DevzLbDSCBkv-LM]
+
+D/dalvikvm(11819): GC_CONCURRENT freed 279K, 13% free 10786K/12268K, paused 3ms+3ms, total 31ms
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+D/BatteryService( 2357): update start
+
+D/BatteryService( 2357): level:94, scale:100, status:2, health:2, present:true, voltage: 4263, temperature: 329, technology: Li-ion, AC powered:false, USB powered:true, Wireless powered:false, icon:17303550, invalid charger:0, online:4, charge type:1, current avg:460
+
+D/BatteryService( 2357): Sending ACTION_BATTERY_CHANGED.
+
+D/STATUSBAR-BatteryController( 2638): onReceive() - ACTION_BATTERY_CHANGED
+
+D/STATUSBAR-BatteryController( 2638): onReceive() - BATTERY_STATUS_CHARGING:
+
+D/STATUSBAR-PhoneStatusBar( 2638):  mBrightnessEnablebySettings = true mBrightnessEnablebyBattery = true mBrightnessEnablebyDisableFlag = true
+
+D/STATUSBAR-IconMerger( 2638): checkOverflow(336), More:false, Req:false Child:3
+
+D/LockPatternUtils( 2357): isPcwEnable = null
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+I/InputReader( 2357): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.7897 ] when=116754835995000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x0
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+I/InputReader( 2357): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=116754927672000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x1
+
+V/WebViewInputDispatcher(11582): blockWebkitDraw
+
+V/WebViewInputDispatcher(11582): blockWebkitDraw lockedfalse
+
+D/webview (11582): blockWebkitViewMessage= false
+
+W/ActivityManager( 2357): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+
+E/DatabaseUtils( 2357): Writing exception to parcel
+
+E/DatabaseUtils( 2357): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+
+E/DatabaseUtils( 2357): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:13140)
+
+E/DatabaseUtils( 2357): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2038)
+
+E/DatabaseUtils( 2357): 	at com.android.providers.settings.SettingsProvider.callFromPackage(SettingsProvider.java:607)
+
+E/DatabaseUtils( 2357): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:279)
+
+E/DatabaseUtils( 2357): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:273)
+
+E/DatabaseUtils( 2357): 	at android.os.Binder.execTransact(Binder.java:388)
+
+E/DatabaseUtils( 2357): 	at dalvik.system.NativeStart.run(Native Method)
+
+I/webclipboard(11582): clipservice: android.sec.clipboard.ClipboardExManager@43340e30
+
+V/webkit  (11582): BrowserFrame constructor: this=Handler (android.webkit.BrowserFrame) {43655a38}
+
+D/CordovaWebView(11582): CordovaWebView is running on device made by: samsung
+
+D/JsMessageQueue(11582): Set native->JS mode to 2
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/modal.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/modal.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /modal.html
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /modal.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /modal.html
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.AGViewFragment(11582): getLayout() called!
+
+W/com.appgyver.preview.AGViewFragment(11582): onResume() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,http://localhost/modal.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: http://localhost/modal.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /cordova.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /components/steroids-js/steroids.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /components/steroids-js/steroids.js
+
+D/WebView (11582): onSizeChanged - w:720 h:1230
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/cordova_plugins.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/cordova_plugins.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /cordova_plugins.js
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device-motion/www/Acceleration.js
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device-motion/www/accelerometer.js
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js
+
+D/WebView (11582): loadUrlImpl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,http://localhost/modal.html)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: http://localhost/modal.html
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/CaptureError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/MediaFileData.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/MediaFile.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media-capture/www/capture.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device-orientation/www/CompassError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device-orientation/www/CompassHeading.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device-orientation/www/compass.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.network-information/www/network.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.network-information/www/Connection.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/contacts.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/Contact.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/dalvikvm(11582): GC_CONCURRENT freed 1517K, 18% free 22370K/27016K, paused 2ms+6ms, total 32ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 19ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 12ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 16ms
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactAddress.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactField.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/webviewglue(11582): nativeDestroy view: 0x5ae78d98
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactFindOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactName.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.contacts/www/ContactOrganization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.device/www/device.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.battery-status/www/battery.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.geolocation/www/Coordinates.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.geolocation/www/PositionError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.geolocation/www/Position.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.geolocation/www/geolocation.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.globalization/www/GlobalizationError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.globalization/www/globalization.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media/www/MediaError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.media/www/Media.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.dialogs/www/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.dialogs/www/android/notification.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.vibration/www/vibration.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.camera/www/CameraConstants.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.camera/www/CameraPopoverOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.camera/www/Camera.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.camera/www/CameraPopoverHandle.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.inappbrowser/www/InAppBrowser.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/com.adobe.plugins.GAPlugin/www/GAPlugin.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/com.phonegap.plugins.barcodescanner/www/barcodescanner.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file-transfer/www/FileTransferError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file-transfer/www/FileTransfer.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/DirectoryEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/DirectoryReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/Entry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/File.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileEntry.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileError.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileReader.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileUploadOptions.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileUploadResult.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/FileWriter.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/Flags.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/LocalFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/Metadata.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/dalvikvm(11582): GC_CONCURRENT freed 692K, 13% free 23726K/27016K, paused 4ms+3ms, total 30ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 15ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 20ms
+
+D/dalvikvm(11582): WAIT_FOR_CONCURRENT_GC blocked 17ms
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/ProgressEvent.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/requestFileSystem.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): shouldInterceptRequest: http://localhost/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Intercepting localhost request for http://localhost/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost userFile for /plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost applicationFile for /plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Handling localhost wwwFile for /plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/com.appgyver.preview.ESWebViewClient(11582): Responding to request for: /plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/CordovaNetworkManager(11582): Connection Type: wifi
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(spinner,stop)
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/CordovaNetworkManager(11582): Connection Type: wifi
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(networkconnection,wifi)
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300, Prev AP = 300, Duration = 9999
+
+W/PicturePileLayerContent(11582): Warning: painting PicturePile without content!
+
+I/InputReader( 2357): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.7898 ] when=116756993028000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x0
+
+I/InputReader( 2357): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=116757073298000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x1
+
+V/WebViewInputDispatcher(11582): blockWebkitDraw
+
+V/WebViewInputDispatcher(11582): blockWebkitDraw lockedfalse
+
+V/MediaPlayer-JNI(11570): release
+
+V/MediaPlayer(11570): setListener
+
+V/MediaPlayer(11570): disconnect
+
+V/MediaPlayer(11570): destructor
+
+V/MediaPlayer(11570): disconnect
+
+D/webview (11582): blockWebkitViewMessage= false
+
+W/ActivityManager( 2357): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+
+E/DatabaseUtils( 2357): Writing exception to parcel
+
+E/DatabaseUtils( 2357): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+
+E/DatabaseUtils( 2357): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:13140)
+
+E/DatabaseUtils( 2357): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2038)
+
+E/DatabaseUtils( 2357): 	at com.android.providers.settings.SettingsProvider.callFromPackage(SettingsProvider.java:607)
+
+E/DatabaseUtils( 2357): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:279)
+
+E/DatabaseUtils( 2357): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:273)
+
+E/DatabaseUtils( 2357): 	at android.os.Binder.execTransact(Binder.java:388)
+
+E/DatabaseUtils( 2357): 	at dalvik.system.NativeStart.run(Native Method)
+
+D/WebView (11582): loadUrlImpl: called
+
+W/com.appgyver.preview.AGViewFragment(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+W/dalvikvm(11582): threadid=20: thread exiting with uncaught exception (group=0x41f52700)
+
+E/Crittercism(11582): java.lang.NullPointerException
+
+E/Crittercism(11582): 	at com.appgyver.preview.AGViewFragment$11.run(AGViewFragment.java:592)
+
+E/Crittercism(11582): 	at java.lang.Thread.run(Thread.java:841)
+
+E/Watchdog( 2357): !@Sync 3887
+
+E/AndroidRuntime(11582): FATAL EXCEPTION: Thread-53134
+
+E/AndroidRuntime(11582): java.lang.NullPointerException
+
+E/AndroidRuntime(11582): 	at com.appgyver.preview.AGViewFragment$11.run(AGViewFragment.java:592)
+
+E/AndroidRuntime(11582): 	at java.lang.Thread.run(Thread.java:841)
+
+I/ActivityManager( 2357): Notify an ApplicationCrash
+
+D/dalvikvm( 2357): GC_FOR_ALLOC freed 2013K, 12% free 45678K/51744K, paused 209ms, total 209ms
+
+D/dalvikvm( 2357): GC_FOR_ALLOC freed 798K, 12% free 45622K/51744K, paused 156ms, total 156ms
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/dumpstate(11967): begin
+
+E/android.os.Debug( 2357): !@Dumpstate > sdumpstate -k -t -z -d -o /data/log/dumpstate_app_error
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+D/STATUSBAR-NetworkController( 2638): onSignalStrengthsChanged signalStrength=SignalStrength: 23 -1 -1 -1 -1 -1 -1 99 -140 -20 -200 -1 2147483647 gsm|lte 0x4 level=4
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+D/DisplayPowerController( 2357): SSTEMP : mIsLockZone = false
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+V/WindowManager( 2357): rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 isCoverOpen=true mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false
+
+V/WindowManager( 2357): Application requested orientation -1, got rotation 0 which has compatible metrics
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300, Prev AP = 300, Duration = 9998
+
+D/DisplayPowerController( 2357): SSTEMP : mIsLockZone = true
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+I/dumpstate(11967): done
+
+W/com.appgyver.preview.AGViewFragment(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+W/com.appgyver.preview.AGViewFragment(11582): onPause() called!
+
+I/ActivityManager( 2357): Process com.sec.android.app.clockpackage (pid 11910) (adj 9) has died.
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/com.appgyver.preview.BackgroundAGContext(11582): Pausing background WebView
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+I/ActivityManager( 2357): Process com.android.contacts (pid 10221) (adj 11) has died.
+
+I/ActivityManager( 2357): Process com.android.email (pid 7373) (adj 9) has died.
+
+E/SQLiteLog(11582): (14) cannot open file at line 32516 of [00bb9c9ce4]
+
+E/SQLiteLog(11582): (14) os_unix.c:32516: (2) open(/NotificationPermissions.db) - 
+
+D/WebKit  (11582): ERROR: 
+
+D/WebKit  (11582): SQLite database failed to load from /NotificationPermissions.db
+
+D/WebKit  (11582): Cause - unable to open database file
+
+D/WebKit  (11582): 
+
+D/WebKit  (11582): external/webkit/Source/WebCore/platform/sql/SQLiteDatabase.cpp(71) : bool WebCore::SQLiteDatabase::open(const WTF::String&, bool)
+
+W/ActivityManager( 2357): mDVFSHelper.acquire()
+
+V/WindowManager( 2357): rotationForOrientationLw(orient=1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 isCoverOpen=true mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false
+
+V/WindowManager( 2357): Application requested orientation 1, got rotation 0 which has compatible metrics
+
+D/WindowManager( 2357): computeScreenConfigurationLocked() set config.orientation=1 dw=720 dh=1280 Callers=com.android.server.wm.WindowManagerService.updateOrientationFromAppTokensLocked:5171 com.android.server.wm.WindowManagerService.updateOrientationFromAppTokens:5142 com.android.server.am.ActivityStack.resumeTopActivityLocked:2776 
+
+D/PowerManagerService( 2357): setKeyboardVisibility: false
+
+I/Web Console(11582): exception firing pause event from native:1
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): onResume() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): finish() called!
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+W/com.appgyver.preview.AGViewFragment(11582): onResume() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+W/com.appgyver.preview.AGViewFragment(11582): onResume() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/STATUSBAR-StatusBarManagerService( 2357): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+V/WindowManager( 2357): rotationForOrientationLw(orient=-1, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 isCoverOpen=true mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false
+
+D/CrashAnrDetector( 2357): processName: com.appgyver.android
+
+V/WindowManager( 2357): Application requested orientation -1, got rotation 0 which has compatible metrics
+
+D/CrashAnrDetector( 2357): broadcastEvent : com.appgyver.android data_app_crash
+
+I/SurfaceFlinger( 1941): id=2740 Removed BGApplicati (3/4)
+
+I/SurfaceFlinger( 1941): id=2740 Removed BGApplicati (-2/4)
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+W/com.appgyver.preview.AGViewFragment(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+W/com.appgyver.preview.AGViewFragment(11582): onPause() called!
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+V/WindowManager( 2357): rotationForOrientationLw(orient=5, last=0); user=0 USER_ROTATION_LOCKED sensorRotation=-1 isCoverOpen=true mLidState=-1 mDockMode=0 mHdmiPlugged=false mAccelerometerDefault=false
+
+V/WindowManager( 2357): Application requested orientation 5, got rotation 0 which has compatible metrics
+
+D/WindowManager( 2357): computeScreenConfigurationLocked() set config.orientation=1 dw=720 dh=1280 Callers=com.android.server.wm.WindowManagerService.updateOrientationFromAppTokensLocked:5171 com.android.server.wm.WindowManagerService.updateOrientationFromAppTokens:5142 com.android.server.am.ActivityStack.resumeTopActivityLocked:2776 
+
+D/Launcher.HomeFragment(29137): onStart
+
+D/PowerManagerService( 2357): setKeyboardVisibility: false
+
+I/Web Console(11582): exception firing resume event from native:1
+
+I/Web Console(11582): exception firing pause event from native:1
+
+I/SurfaceFlinger( 1941): id=2741 createSurf (1x1),1 flag=4, bndroid
+
+E/Launcher(29137): Error finding setting, default accessibility to not found: accessibility_enabled
+
+D/Launcher.HomeFragment(29137): onResume
+
+D/MenuAppsGridFragment(29137): onResume
+
+D/AbsListView(29137): onVisibilityChanged() is called, visibility : 0
+
+D/AbsListView(29137): unregisterIRListener() is called 
+
+D/elm     (12013): ElmAgentService : onCreate()
+
+D/elm     (12013): ElmAgentService : set alarms for deniallog and usage data upload
+
+D/elm     (12013): ElmAgentService. startJobThread() start
+
+D/elm     (12013): ElmAgentService. JobThread()
+
+D/elm     (12013): ElmAgentService. JobThread. notifyAll().
+
+D/elm     (12013): ElmAgentService. startJobThread() wait
+
+D/elm     (12013): ElmAgentService : isSetupWizardExist():false
+
+D/elm     (12013): UploadDenialLogResponseModule : setDenialAlarm()
+
+E/elm     (12013): UploadDenialLogResponseModule : setDenialAlarm() : AFTER alarmTime is .604800000
+
+D/elm     (12013): ElmAgentService : starting a seperate thread for watching on audit log files
+
+D/elm     (12013): setUsageAlarm 1 >> alarmTime value 1397159219290and SYSTEM current 1396595661136
+
+D/elm     (12013): ELMEngine.getInstance().
+
+D/elm     (12013): ELMEngine.ELMEngine( context , reStart:true).
+
+D/elm     (12013): ModuleBase : setContext() Called
+
+D/dalvikvm(29137): GC_CONCURRENT freed 4704K, 28% free 26891K/37328K, paused 8ms+8ms, total 70ms
+
+D/dalvikvm(29137): WAIT_FOR_CONCURRENT_GC blocked 59ms
+
+D/dalvikvm(29137): WAIT_FOR_CONCURRENT_GC blocked 54ms
+
+D/elm     (12013): MDMBridge.setEnterpriseBridge()
+
+D/elm     (12013): ELMEngine.ServiceHandler.handleMessage( BOOT_COMPLETED ). 
+
+D/elm     (12013): BootCompletedState : startBootCompleted() call
+
+D/elm     (12013): BootCompletedModule.startBootCompleted( false )
+
+D/elm     (12013): ModuleBase.resetCalllogAPIAlarm()
+
+D/elm     (12013): MDMBridge.getAllLicenseInfoFromSDK()
+
+I/elm     (12013): Get License : 0
+
+D/dalvikvm(29137): GC_FOR_ALLOC freed 256K, 24% free 28680K/37328K, paused 35ms, total 35ms
+
+D/CellLayoutChildren(29137): setCellDimensions. width: 144, height: 200, gapX: 0, gapY: 0
+
+I/SurfaceFlinger( 1941): id=2742 createSurf (720x1280),1 flag=4, Mauncher
+
+D/dalvikvm(29137): GC_CONCURRENT freed 304K, 21% free 29853K/37328K, paused 2ms+9ms, total 49ms
+
+W/ActivityManager( 2357): Permission denied: checkComponentPermission() owningUid=10025
+
+W/ActivityManager( 2357): Permission denied: checkComponentPermission() owningUid=10026
+
+V/RenderScript(29137): 0x5aeb83a8 Launching thread(s), CPUs 4
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+V/WindowManager( 2357): Window{43494c18 u0 Keyguard}mOrientationRequetedFromKeyguard=false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+D/WebView (11582): loadUrlImpl: called
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,about:blank)
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: about:blank
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+E/ActivityThread(11582): Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.CordovaWebView$1@433e7d48 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): android.app.IntentReceiverLeaked: Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.CordovaWebView$1@433e7d48 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): 	at android.app.LoadedApk$ReceiverDispatcher.<init>(LoadedApk.java:805)
+
+E/ActivityThread(11582): 	at android.app.LoadedApk.getReceiverDispatcher(LoadedApk.java:606)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiverInternal(ContextImpl.java:1720)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1700)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1694)
+
+E/ActivityThread(11582): 	at android.content.ContextWrapper.registerReceiver(ContextWrapper.java:453)
+
+E/ActivityThread(11582): 	at org.apache.cordova.CordovaWebView.setup(CordovaWebView.java:265)
+
+E/ActivityThread(11582): 	at org.apache.cordova.CordovaWebView.<init>(CordovaWebView.java:112)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.ESWebView.<init>(ESWebView.java:40)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.AGViewFragment.createWebView(AGViewFragment.java:101)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.BaseApplicationActivity.createAGViewFragment(BaseApplicationActivity.java:186)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.BaseApplicationActivity.openModalByFileURL(BaseApplicationActivity.java:424)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.AGApplicationActivity.openModalByFileURL(AGApplicationActivity.java:363)
+
+E/ActivityThread(11582): 	at com.appgyver.preview.BaseApplicationActivity$7.run(BaseApplicationActivity.java:416)
+
+E/ActivityThread(11582): 	at android.os.Handler.handleCallback(Handler.java:730)
+
+E/ActivityThread(11582): 	at android.os.Handler.dispatchMessage(Handler.java:92)
+
+E/ActivityThread(11582): 	at android.os.Looper.loop(Looper.java:176)
+
+E/ActivityThread(11582): 	at android.app.ActivityThread.main(ActivityThread.java:5419)
+
+E/ActivityThread(11582): 	at java.lang.reflect.Method.invokeNative(Native Method)
+
+E/ActivityThread(11582): 	at java.lang.reflect.Method.invoke(Method.java:525)
+
+E/ActivityThread(11582): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1046)
+
+E/ActivityThread(11582): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:862)
+
+E/ActivityThread(11582): 	at dalvik.system.NativeStart.main(Native Method)
+
+E/ActivityThread(11582): Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.networkinformation.NetworkManager$1@43582578 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): android.app.IntentReceiverLeaked: Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.networkinformation.NetworkManager$1@43582578 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): 	at android.app.LoadedApk$ReceiverDispatcher.<init>(LoadedApk.java:805)
+
+E/ActivityThread(11582): 	at android.app.LoadedApk.getReceiverDispatcher(LoadedApk.java:606)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiverInternal(ContextImpl.java:1720)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1700)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1694)
+
+E/ActivityThread(11582): 	at android.content.ContextWrapper.registerReceiver(ContextWrapper.java:453)
+
+E/ActivityThread(11582): 	at org.apache.cordova.networkinformation.NetworkManager.initialize(NetworkManager.java:111)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginEntry.createPlugin(PluginEntry.java:96)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.getPlugin(PluginManager.java:254)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.execHelper(PluginManager.java:208)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.exec(PluginManager.java:203)
+
+E/ActivityThread(11582): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:52)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.sharedTimerFired(Native Method)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.sharedTimerFired(Native Method)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.fireSharedTimer(JWebCoreJavaBridge.java:92)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:108)
+
+E/ActivityThread(11582): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+
+E/ActivityThread(11582): 	at android.os.Looper.loop(Looper.java:176)
+
+E/ActivityThread(11582): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:1093)
+
+E/ActivityThread(11582): 	at java.lang.Thread.run(Thread.java:841)
+
+E/ActivityThread(11582): Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.device.Device$1@429a8fb8 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): android.app.IntentReceiverLeaked: Activity com.appgyver.preview.AGApplicationActivity has leaked IntentReceiver org.apache.cordova.device.Device$1@429a8fb8 that was originally registered here. Are you missing a call to unregisterReceiver()?
+
+E/ActivityThread(11582): 	at android.app.LoadedApk$ReceiverDispatcher.<init>(LoadedApk.java:805)
+
+E/ActivityThread(11582): 	at android.app.LoadedApk.getReceiverDispatcher(LoadedApk.java:606)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiverInternal(ContextImpl.java:1720)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1700)
+
+E/ActivityThread(11582): 	at android.app.ContextImpl.registerReceiver(ContextImpl.java:1694)
+
+E/ActivityThread(11582): 	at android.content.ContextWrapper.registerReceiver(ContextWrapper.java:453)
+
+E/ActivityThread(11582): 	at org.apache.cordova.device.Device.initTelephonyReceiver(Device.java:142)
+
+E/ActivityThread(11582): 	at org.apache.cordova.device.Device.initialize(Device.java:68)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginEntry.createPlugin(PluginEntry.java:96)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.getPlugin(PluginManager.java:254)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.execHelper(PluginManager.java:208)
+
+E/ActivityThread(11582): 	at org.apache.cordova.PluginManager.exec(PluginManager.java:203)
+
+E/ActivityThread(11582): 	at org.apache.cordova.ExposedJsApi.exec(ExposedJsApi.java:52)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.sharedTimerFired(Native Method)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.sharedTimerFired(Native Method)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.fireSharedTimer(JWebCoreJavaBridge.java:92)
+
+E/ActivityThread(11582): 	at android.webkit.JWebCoreJavaBridge.handleMessage(JWebCoreJavaBridge.java:108)
+
+E/ActivityThread(11582): 	at android.os.Handler.dispatchMessage(Handler.java:99)
+
+E/ActivityThread(11582): 	at android.os.Looper.loop(Looper.java:176)
+
+E/ActivityThread(11582): 	at android.webkit.WebViewCore$WebCoreThread.run(WebViewCore.java:1093)
+
+E/ActivityThread(11582): 	at java.lang.Thread.run(Thread.java:841)
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,about:blank)
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(exit,null)
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): finish() called!
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: about:blank
+
+I/Web Console(11582): exception firing destroy event from native:1
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,about:blank)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: about:blank
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,about:blank)
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(exit,null)
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): finish() called!
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: about:blank
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BackgroundAGContext(11582): Evaling to background: 
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/WebView (11582): loadUrlImpl: called
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,about:blank)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: file:///android_asset/StartPreview/startpreview.html
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,about:blank)
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(exit,null)
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): finish() called!
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: about:blank
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+I/Web Console(11582): exception firing destroy event from native:1
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageStarted,about:blank)
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageStarted: null
+
+I/GATE    (11582): <GATE-M>DEV_ACTION_COMPLETED</GATE-M>
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(onPageFinished,about:blank)
+
+D/com.appgyver.preview.BaseApplicationActivity(11582): onMessage(exit,null)
+
+W/com.appgyver.preview.BaseApplicationActivity(11582): finish() called!
+
+D/com.appgyver.preview.ESWebViewClient(11582): onPageFinished: about:blank
+
+D/webcore (11582):  CORE loadUrl: called
+
+D/webkit  (11582): Firewall not null
+
+D/webkit  (11582): euler: isUrlBlocked = false
+
+I/InputReader( 2357): Touch event's action is 0x0 (deviceType=0) [pCnt=1, s=0.7899 ] when=116771127119000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x0
+
+D/SSRMv2:CustomFrequencyManagerService( 2357): FrequencyrequestList.getNextMaxCPUCoreRequest, index: 1
+
+W/ActivityManager( 2357): mDVFSHelper.release()
+
+I/InputReader( 2357): Touch event's action is 0x1 (deviceType=0) [pCnt=1, s=] when=116771253165000
+
+I/InputDispatcher( 2357): Delivering touch to: action: 0x1
+
+D/dalvikvm( 1942): GC_EXPLICIT freed 39K, 12% free 9453K/10648K, paused 2ms+4ms, total 44ms
+
+D/BadgeProvider(12101): onCreate
+
+D/BadgeProvider(12101): DatabaseHelper
+
+D/dalvikvm( 1942): GC_EXPLICIT freed <1K, 12% free 9453K/10648K, paused 3ms+3ms, total 36ms
+
+D/BadgeProvider(12101): onUpgarde :: oldVersion:2 newVersion:3
+
+E/SQLiteLog(12101): (1) duplicate column name: extraData
+
+E/BadgeProvider(12101): onUpgarde :: Trying to add Column :: Exception already exists:duplicate column name: extraData (code 1): , while compiling: ALTER TABLE apps ADD COLUMN extraData TEXT DEFAULT base_extra_badge;
+
+D/BadgeProvider(12101): query, [selection] : package='com.android.email' AND class='com.android.email.activity.Welcome' AND extraData='base_extra_badge'
+
+D/dalvikvm( 1942): GC_EXPLICIT freed <1K, 12% free 9453K/10648K, paused 2ms+4ms, total 36ms
+
+D/Launcher.Model(29137): reloadBadges entered.
+
+D/BadgeProvider(12101): sendNotify entered. [uri] : content://com.sec.badge/apps/1
+
+D/BadgeProvider(12101): sendNotify, [notify] : null
+
+D/BadgeProvider(12101): update, [uri] : content://com.sec.badge/apps/1
+
+D/BadgeProvider(12101): update, [BadgeCount] : badgecount=0
+
+D/BadgeProvider(12101): update, [UpdateCount] : 1
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[1] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[0] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[2] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[3] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[-1] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[-1] have 0 badges
+
+D/Launcher.Model(29137): reloadBadges, badges count : 0
+
+D/Launcher.Model(29137): reloadBadges, origCallbacks : java.lang.ref.WeakReference@42a50ca0
+
+V/MediaPlayerService( 1944): Client(1269) destructor pid = 11582
+
+V/MediaPlayerService( 1944): disconnect(1269) from pid 11582
+
+V/StagefrightPlayer( 1944): reset
+
+V/AwesomePlayer( 1944): reset_l()
+
+V/AwesomePlayer( 1944): cancelPlayerEvents (keepNotifications=0)
+
+V/AwesomePlayer( 1944): mAudioTrackVector clear
+
+V/AudioSink( 1944): stop
+
+V/AudioSink( 1944): +++ close
+
+V/AudioPolicyManagerBase( 1944): releaseOutput() 2
+
+W/AudioFlinger( 1944): session id 1491 not found for pid 1944
+
+V/AudioSink( 1944): --- close
+
+I/OMXCodec( 1944): [OMX.google.vorbis.decoder] stop() sendCommand(0x581, OMX_CommandStateSet, OMX_StateIdle)
+
+I/AudioPlayer( 1944): reset out
+
+V/AwesomePlayer( 1944): reset_l() mAudioPlayer successfully deleted
+
+I/SecMediaClock( 1944): SecMediaClock destructor
+
+V/AwesomePlayer( 1944): mSecMediaClock clear
+
+V/StagefrightPlayer( 1944): ~StagefrightPlayer
+
+V/StagefrightPlayer( 1944): reset
+
+V/AwesomePlayer( 1944): reset_l()
+
+V/AwesomePlayer( 1944): cancelPlayerEvents (keepNotifications=0)
+
+V/AwesomePlayer( 1944): mAudioTrackVector clear
+
+V/AwesomePlayer( 1944): reset_l() mAudioPlayer successfully deleted
+
+V/AwesomePlayer( 1944): mSecMediaClock clear
+
+V/AwesomePlayer( 1944): destructor
+
+V/AwesomePlayer( 1944): reset_l()
+
+V/AwesomePlayer( 1944): cancelPlayerEvents (keepNotifications=0)
+
+V/AwesomePlayer( 1944): mAudioTrackVector clear
+
+V/AwesomePlayer( 1944): reset_l() mAudioPlayer successfully deleted
+
+V/AwesomePlayer( 1944): mSecMediaClock clear
+
+V/AudioSink( 1944): +++ close
+
+V/AudioSink( 1944): --- close
+
+D/STATUSBAR-StatusBarManagerService( 2357): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+
+E/ViewRootImpl( 2357): sendUserActionEvent() mView == null
+
+D/AbsListView(29137): unregisterIRListener() is called 
+
+E/EnterpriseContainerManager( 2357): ContainerPolicy Service is not yet ready!!!
+
+D/EnterpriseDeviceManager( 2357): ContainerId: 0
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/InputMethodManagerService( 2357): Got RemoteException sending setActive(false) notification to pid 11582 uid 10212
+
+D/SSRMv2:Monitor( 2357): SIOP:: AP = 300 (read only)
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+W/LicenseLogService( 2357): log() is called by non admin
+
+I/SurfaceFlinger( 1941): id=2741 Removed bndroid (4/5)
+
+I/SurfaceFlinger( 1941): id=2741 Removed bndroid (-2/5)
+
+E/ActivityThread(12083): Service com.android.email.service.AttachmentDownloadService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@42a8c5c0 that was originally bound here
+
+E/ActivityThread(12083): android.app.ServiceConnectionLeaked: Service com.android.email.service.AttachmentDownloadService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@42a8c5c0 that was originally bound here
+
+E/ActivityThread(12083): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:979)
+
+E/ActivityThread(12083): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:873)
+
+E/ActivityThread(12083): 	at android.app.ContextImpl.bindServiceAsUser(ContextImpl.java:1833)
+
+E/ActivityThread(12083): 	at android.app.ContextImpl.bindService(ContextImpl.java:1821)
+
+E/ActivityThread(12083): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:503)
+
+E/ActivityThread(12083): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:158)
+
+E/ActivityThread(12083): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:146)
+
+E/ActivityThread(12083): 	at com.android.emailcommon.service.EmailServiceProxy.removeCallback(EmailServiceProxy.java:274)
+
+E/ActivityThread(12083): 	at com.android.email.service.AttachmentDownloadService.run(AttachmentDownloadService.java:1528)
+
+E/ActivityThread(12083): 	at java.lang.Thread.run(Thread.java:841)
+
+D/dalvikvm(12083): GC_CONCURRENT freed 582K, 15% free 9865K/11584K, paused 9ms+13ms, total 98ms
+
+D/BadgeProvider(12101): query, [selection] : package='com.android.email' AND class='com.android.email.activity.Welcome' AND extraData='base_extra_badge'
+
+D/Launcher.Model(29137): reloadBadges entered.
+
+D/BadgeProvider(12101): sendNotify entered. [uri] : content://com.sec.badge/apps/1
+
+D/BadgeProvider(12101): sendNotify, [notify] : null
+
+D/BadgeProvider(12101): update, [uri] : content://com.sec.badge/apps/1
+
+D/BadgeProvider(12101): update, [BadgeCount] : badgecount=0
+
+D/BadgeProvider(12101): update, [UpdateCount] : 1
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[1] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[0] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[2] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[3] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[-1] have 0 badges
+
+D/Launcher.BadgeCache, (29137): updateBadgeCounts, app[-1] have 0 badges
+
+D/Launcher.Model(29137): reloadBadges, badges count : 0
+
+D/Launcher.Model(29137): reloadBadges, origCallbacks : java.lang.ref.WeakReference@42a50ca0
+
+W/dalvikvm(12149): Refusing to reopen boot DEX '/system/framework/commonimsinterface.jar'
+
+E/ActivityThread(12120): Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@429c0fc0 that was originally bound here
+
+E/ActivityThread(12120): android.app.ServiceConnectionLeaked: Service com.android.exchange.ExchangeService has leaked ServiceConnection com.android.emailcommon.service.ServiceProxy$ProxyConnection@429c0fc0 that was originally bound here
+
+E/ActivityThread(12120): 	at android.app.LoadedApk$ServiceDispatcher.<init>(LoadedApk.java:979)
+
+E/ActivityThread(12120): 	at android.app.LoadedApk.getServiceDispatcher(LoadedApk.java:873)
+
+E/ActivityThread(12120): 	at android.app.ContextImpl.bindServiceAsUser(ContextImpl.java:1833)
+
+E/ActivityThread(12120): 	at android.app.ContextImpl.bindService(ContextImpl.java:1821)
+
+E/ActivityThread(12120): 	at android.content.ContextWrapper.bindService(ContextWrapper.java:503)
+
+E/ActivityThread(12120): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:158)
+
+E/ActivityThread(12120): 	at com.android.emailcommon.service.ServiceProxy.setTask(ServiceProxy.java:146)
+
+E/ActivityThread(12120): 	at com.android.emailcommon.service.AccountServiceProxy.restoreAccountsIfNeeded(AccountServiceProxy.java:135)
+
+E/ActivityThread(12120): 	at com.android.exchange.ExchangeService$11.run(ExchangeService.java:4645)
+
+E/ActivityThread(12120): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:1053)
+
+E/ActivityThread(12120): 	at com.android.emailcommon.utility.Utility$2.doInBackground(Utility.java:1050)
+
+E/ActivityThread(12120): 	at android.os.AsyncTask$2.call(AsyncTask.java:287)
+
+E/ActivityThread(12120): 	at java.util.concurrent.FutureTask.run(FutureTask.java:234)
+
+E/ActivityThread(12120): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:230)
+
+E/ActivityThread(12120): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1080)
+
+E/ActivityThread(12120): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:573)
+
+E/ActivityThread(12120): 	at java.lang.Thread.run(Thread.java:841)
+
+V/VibratorService( 2357): useVibetonz: true
+
+W/dalvikvm(12184): Refusing to reopen boot DEX '/system/framework/seccamera.jar'
+
+W/dalvikvm(12184): Refusing to reopen boot DEX '/system/framework/commonimsinterface.jar'
+
+D/Mms/MmsApp(12184): [start]    onCreate()
+
+D/Mms/MmsApp(12184): onCreate() com.android.mms
+
+D/Mms/MmsConfig(12184): before partial update
+
+D/Mms/MmsConfig(12184): Load Resize quality : 80
+
+D/Mms/MmsConfig(12184):  enable multiwindow = true
+
+E/Mms/MessageUtils(12184): setCountryDetector : update country detector info 
+
+E/Mms/MessageUtils(12184): updateCountryIso : update country iso info 
+
+D/dalvikvm(12184): GC_CONCURRENT freed 217K, 12% free 10192K/11560K, paused 3ms+4ms, total 44ms
+
+D/STATUSBAR-NetworkController( 2638): onReceive() - RSSI_CHANGED_ACTION, WIFI_STATE, NETWORK_STATE
+
+D/STATUSBAR-NetworkController( 2638): refreshSignalCluster: data=0 bt=false
+
+D/STATUSBAR-IconMerger( 2638): checkOverflow(336), More:false, Req:false Child:3
+
+D/Mms/Conversation(12184): init()
+
+D/STATUSBAR-NetworkController( 2638): onSignalStrengthsChanged signalStrength=SignalStrength: 24 -1 -1 -1 -1 -1 -1 99 -140 -20 -200 -1 2147483647 gsm|lte 0x4 level=4
+
+I/Mms/ReservationManager(12184): ReservationManager()
+
+I/Mms/ReservationManager(12184): resetAfterConnected()
+
+I/Mms/ReservationManager(12184): getReservedSendMessageCount(): retMessageCount=0
+
+D/Mms/MmsApp(12184): [end]    onCreate()
+
+D/Mms/UIEventReceiver(12184): ui event
+
+D/Mms/DownloadManager(12184): Service state changed: Bundle[mParcelledData.dataSize=808]
+
+D/Mms/DownloadManager(12184): roaming ------> false
+
+D/Mms/DownloadManager(12184): mAutoDownload ------> true
+
+D/dalvikvm(12184): GC_CONCURRENT freed 116K, 12% free 10462K/11800K, paused 1ms+1ms, total 24ms
+
